@@ -1,0 +1,6 @@
+// 1. Mencetak hello world
+
+module tb;	// Kode verilog ditulis di dalam module
+	initial	// Digunakan untuk inisialisasi variabel/sinyal
+		$display ("Hello World !");	// mencetak tulisan
+endmodule	// Penutup module
